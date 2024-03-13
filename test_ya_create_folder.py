@@ -23,7 +23,7 @@ class YandexDisk:
         return response.status_code
 
 
-TOKEN = ''
+TOKEN = 'sectet'
 
 
 class CreateFolder(TestCase):
